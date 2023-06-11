@@ -53,5 +53,4 @@ function removeItem(event) {
 }
 
 button.addEventListener("click", addListAfterClick);
-
 input.addEventListener("keypress", addListAfterKeypress);
